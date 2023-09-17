@@ -6,6 +6,16 @@
 ### Modding Websites
 - [CabConModding](https://cabconmodding.com/)
 - [UnKnoWnCheaTs](https://www.unknowncheats.me/forum/index.php)
+- [cod4x](https://cod4x.ovh/)
+
+### Modding Tools
+  - [Plutonium](https://plutonium.pw/)
+    - [⬇️ DOWNLOAD](https://plutonium.pw/docs/install/)
+  - [Infinity Loader](https://infinityloader.com/)
+    - [⬇️ DOWNLOAD](https://infinityloaderupdate.s3.amazonaws.com/Installer.exe)
+  - [Black Ops 2 GSC Studio](https://mega.nz/file/hDoGwAbR#j-9i3oIZyiAz13FULRTaxAiKQcSCOXo-44Lr977YfcQ)
+  - [BO3/4 - t7-compiler](https://github.com/shiversoftdev/t7-compiler)
+    - [⬇️ DOWNLOAD](https://github.com/shiversoftdev/t7-compiler/releases/download/current/t7c_installer.exe)
 
 ### Steam Tools
 - [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)
@@ -18,6 +28,17 @@
   - [⬇️ DOWNLOAD](https://cabconmodding.com/attachments/bgbo_v0-7-rar.2553/)
 - [DLC Map Pack Download FREE (UPDATED LINKS)](https://cabconmodding.com/threads/black-ops-dlcs-map-pack-download-free-updated-links.6655/)
   - [⬇️ DOWNLOAD](https://drive.google.com/open?id=1QttqqiDiC0iX9rmGWkuJw__PBbP5hrU-)
+
+### Call of Duty: Black Ops 2
+- [Multiplayer](https://cabconmodding.com/attachments/cabconmodding-com-jiggy-4-3-compiled-pc-rar.1296/)
+- [Zombies](https://www.mediafire.com/?28un6sdd1wsdad6)
+- [Zombies](https://cabconmodding.com/attachments/encore_9-7_beta_by_cabcon-rar.249/)
+
+### Call of Duty: Black Ops 3
+- [Zombies](https://cabconmodding.com/attachments/zm_encorev14_release_1-rar.1103/)
+- [Zombies](https://cabconmodding.com/attachments/zm_encorev12_alpha_1-rar.639/)
+
+### Call of Duty: Black Ops 4
 
 ### Call of Duty: Modern Warfare 3
 - [GSC Mod Menu by P!X](https://cabconmodding.com/threads/call-of-duty-modern-warfare-3-spec-ops-gsc-mod-menu-by-p-x-download.7668/)
