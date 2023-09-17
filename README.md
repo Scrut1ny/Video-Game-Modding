@@ -20,5 +20,5 @@
   - [⬇️ DOWNLOAD](https://drive.google.com/open?id=1QttqqiDiC0iX9rmGWkuJw__PBbP5hrU-)
 
 ### Call of Duty: Modern Warfare 3
-- [GSC Mod Menu by P!X +Download](https://cabconmodding.com/threads/call-of-duty-modern-warfare-3-spec-ops-gsc-mod-menu-by-p-x-download.7668/)
+- [GSC Mod Menu by P!X](https://cabconmodding.com/threads/call-of-duty-modern-warfare-3-spec-ops-gsc-mod-menu-by-p-x-download.7668/)
   - [⬇️ DOWNLOAD](https://cdn.cabconmodding.com/files/iw5_sp_menu.rar)
