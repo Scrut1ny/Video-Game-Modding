@@ -44,6 +44,8 @@
 - [DLC Map Pack](https://cabconmodding.com/threads/mw3-dlcs-map-pack-download-link-updated.309/)
 - [Survival Trainer](https://cabconmodding.com/threads/call-of-duty-modern-warfare-3-survival-trainer-steam.8622/)
   - [⬇️ DOWNLOAD](https://cabconmodding.com/attachments/call-of-duty-modern-warfare-3-survival-trainer-zip.4186/)
+- [SURVIVAL AND MP CHEAT TABLE](https://cabconmodding.com/threads/mw3-survival-and-mp-cheat-table.9148/)
+  - [⬇️ DOWNLOAD](https://www.mediafire.com/file/7hif6w5xiujlixl/MW3.CT/file)
 - [IW5M Mod Menu Source(Converted to and Optimized for DLL)](https://cabconmodding.com/threads/iw5m-mod-menu-source-converted-to-and-optimized-for-dll.2199/)
   - [⬇️ DOWNLOAD](https://www.sendspace.com/file/laozme)
 - [GSC Mod Menu by P!X](https://cabconmodding.com/threads/call-of-duty-modern-warfare-3-spec-ops-gsc-mod-menu-by-p-x-download.7668/)
