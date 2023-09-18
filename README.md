@@ -42,6 +42,8 @@
 
 ### Call of Duty: Modern Warfare 3
 - [DLC Map Pack](https://cabconmodding.com/threads/mw3-dlcs-map-pack-download-link-updated.309/)
+- [SCZ FoV Changer](https://github.com/marvinlehmann/CoD-SCZ-FoV-Changer)
+  - [⬇️ DOWNLOAD](https://github.com/marvinlehmann/CoD-SCZ-FoV-Changer/releases/download/v1.1.1.0/CoD.SCZ.FoV.Changer.exe)
 - [Survival Trainer](https://cabconmodding.com/threads/call-of-duty-modern-warfare-3-survival-trainer-steam.8622/)
   - [⬇️ DOWNLOAD](https://cabconmodding.com/attachments/call-of-duty-modern-warfare-3-survival-trainer-zip.4186/)
 - [SURVIVAL AND MP CHEAT TABLE](https://cabconmodding.com/threads/mw3-survival-and-mp-cheat-table.9148/)
