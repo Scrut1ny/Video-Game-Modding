@@ -35,6 +35,7 @@
 - [Zombies](https://cabconmodding.com/attachments/encore_9-7_beta_by_cabcon-rar.249/)
 
 ### Call of Duty: Black Ops 3
+- [MXT Mod Menu](https://github.com/Ahrimdon/bo3-mxt-mod-menu-v1.0.5-bundle)
 - [Zombies](https://cabconmodding.com/attachments/zm_encorev14_release_1-rar.1103/)
 - [Zombies](https://cabconmodding.com/attachments/zm_encorev12_alpha_1-rar.639/)
 
